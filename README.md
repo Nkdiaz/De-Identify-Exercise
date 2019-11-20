@@ -7,7 +7,7 @@
     Flask v 1.1.1
     pytest v5.1.0
 - Create SqlLite db.
-    I used the build-in SQLLite CSV importer, I included the db file for conveniance. 
+    I used the build-in SQLLite CSV importer and included the db file for convenience. 
 - run application
     run 'python deidentify_controller.py'
 
